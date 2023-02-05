@@ -6,12 +6,12 @@ System of Pekalongan Webshell V2
  - mass deface
  - mass delete
  - backconnect
+ - cpanel reset (run fuckcpanel systemofpekalongan@gmail.com to reset cpanel)
  
 # Next fitur
 - spawn adminer
 - spawn linepass
 - ransom web
-- cpanel reset
 
 # Screenshoot
  - login page
