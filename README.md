@@ -1,5 +1,6 @@
 # SoP Webshell V2
 System of Pekalongan Webshell V2
+pass: sopv2_31337 ( ni buat para kang dorking shell ;) canda dorking shell)
 
 # Fitur
  - file upload
